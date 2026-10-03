@@ -5,7 +5,7 @@ import math
 # CẤU HÌNH TRANG
 # ==============================
 st.set_page_config(
-    page_title="Tính lãi gửi tiết kiệm",
+    page_title="Tính lãi gửi tiết kiệm_PHẠM HOÀNG KIỀU TRANG",
     page_icon="💰",
     layout="centered"
 )
